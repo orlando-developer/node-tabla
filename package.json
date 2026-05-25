@@ -1,0 +1,17 @@
+{
+  "name": "bases-node",
+  "version": "0.0.2",
+  "description": "Es una simple tabla de multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Orlando Delgado",
+  "license": "MIT",
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
