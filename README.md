@@ -23,7 +23,7 @@ Una potente y robusta herramienta de línea de comandos (CLI) construida en Node
 
 ## 📦 Tecnologías Utilizadas
 
-* **Entorno de ejecución:** [Node.js](https://nodejs.org/) (CommonJS)
+* **Entorno de ejecución:** [Node.js](https://nodejs.org/)
 * **Procesamiento de argumentos:** [Yargs v16.2.0](https://www.npmjs.com/package/yargs)
 * **Diseño de interfaz:** [Colors.js](https://www.npmjs.com/package/colors)
 * **Gestor de paquetes:** [pnpm](https://pnpm.io/)
