@@ -1,4 +1,5 @@
 # 🧮 Node Tabla CLI
+https://github.com/user-attachments/assets/824c0245-7aa3-4ea3-8af7-dc020c27707a
 
 Una potente y robusta herramienta de línea de comandos (CLI) construida en Node.js para generar tablas de multiplicar personalizadas al instante. Diseñada con una arquitectura limpia, manejo defensivo de errores y salida de datos formateada tanto para la consola como para archivos físicos.
 
